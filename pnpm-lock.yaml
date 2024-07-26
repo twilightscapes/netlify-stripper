@@ -20,6 +20,9 @@ importers:
       node-fetch:
         specifier: ^2.7.0
         version: 2.7.0
+      object-inspect:
+        specifier: ^1.13.2
+        version: 1.13.2
       qs:
         specifier: ^6.12.3
         version: 6.12.3
