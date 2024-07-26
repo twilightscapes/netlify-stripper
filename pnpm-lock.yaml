@@ -23,6 +23,9 @@ importers:
       get-intrinsic:
         specifier: ^1.2.4
         version: 1.2.4
+      has-proto:
+        specifier: ^1.0.3
+        version: 1.0.3
       node-fetch:
         specifier: ^2.7.0
         version: 2.7.0
