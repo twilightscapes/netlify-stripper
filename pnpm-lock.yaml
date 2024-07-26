@@ -26,6 +26,9 @@ importers:
       get-intrinsic:
         specifier: ^1.2.4
         version: 1.2.4
+      gopd:
+        specifier: ^1.0.1
+        version: 1.0.1
       has-proto:
         specifier: ^1.0.3
         version: 1.0.3
