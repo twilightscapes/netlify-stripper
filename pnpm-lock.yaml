@@ -17,6 +17,9 @@ importers:
       tr46:
         specifier: ^5.0.0
         version: 5.0.0
+      webidl-conversions:
+        specifier: ^7.0.0
+        version: 7.0.0
       whatwg-url:
         specifier: ^14.0.0
         version: 14.0.0
