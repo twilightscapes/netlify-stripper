@@ -14,6 +14,9 @@ importers:
       qs:
         specifier: ^6.12.3
         version: 6.12.3
+      side-channel:
+        specifier: ^1.0.6
+        version: 1.0.6
       stripe:
         specifier: ^8.222.0
         version: 8.222.0
