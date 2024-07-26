@@ -28,6 +28,7 @@
     "function-bind": "^1.1.2",
     "get-intrinsic": "^1.2.4",
     "gopd": "^1.0.1",
+    "has-property-descriptors": "^1.0.2",
     "has-proto": "^1.0.3",
     "hasown": "^2.0.2",
     "node-fetch": "^2.7.0",
