@@ -11,6 +11,9 @@ importers:
       call-bind:
         specifier: ^1.0.7
         version: 1.0.7
+      define-data-property:
+        specifier: ^1.1.4
+        version: 1.1.4
       es-define-property:
         specifier: ^1.0.0
         version: 1.0.0
