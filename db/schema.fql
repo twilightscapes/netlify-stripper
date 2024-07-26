@@ -1,0 +1,22 @@
+// schema.fql
+
+// Create a collection for Users
+CreateCollection({
+  name: "Users"
+});
+
+// Create an index for querying by netlifyID
+CreateIndex({
+  name: "users_by_netlifyID",
+  source: Collection("Users"),
+  terms: [{ field: ["data", "netlifyID"] }],
+  unique: true
+});
+
+// Create an index for querying by stripeID
+CreateIndex({
+  name: "users_by_stripeID",
+  source: Collection("Users"),
+  terms: [{ field: ["data", "stripeID"] }],
+  unique: true
+});

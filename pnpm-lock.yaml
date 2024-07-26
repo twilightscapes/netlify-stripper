@@ -11,6 +11,9 @@ importers:
       node-fetch:
         specifier: ^2.7.0
         version: 2.7.0
+      qs:
+        specifier: ^6.12.3
+        version: 6.12.3
       stripe:
         specifier: ^8.115.0
         version: 8.222.0
