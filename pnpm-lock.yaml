@@ -20,6 +20,9 @@ importers:
       stripe:
         specifier: ^8.222.0
         version: 8.222.0
+      tr46:
+        specifier: ^5.0.0
+        version: 5.0.0
       whatwg-url:
         specifier: ^14.0.0
         version: 14.0.0
