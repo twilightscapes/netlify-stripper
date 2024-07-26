@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      call-bind:
+        specifier: ^1.0.7
+        version: 1.0.7
       node-fetch:
         specifier: ^2.7.0
         version: 2.7.0
